@@ -15,7 +15,7 @@ body {
 /* Cabeçalho */
 
 header {
-    background: linear-gradient(135deg, #be5a08, #532805);
+    background: linear-gradient(135deg, #be5a08, #532805, #be5a08);
     padding: 40px;
     color: aliceblue;
     text-align: center;
