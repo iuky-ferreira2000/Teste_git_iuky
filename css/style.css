@@ -1,0 +1,35 @@
+/* Estilos Gerais */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: aliceblue;
+    color: rgb(31, 30, 30);
+}
+
+/* Cabeçalho */
+
+header {
+    background-color: linear-gradient(90deg, #be5804, #532805);
+    padding: 40px;
+    color: aliceblue;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 26px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+main {
+    align-items: center;
+    text-align: center;
+    margin: 80px;
+}
+
